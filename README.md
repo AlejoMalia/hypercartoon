@@ -4,7 +4,7 @@
 
 **Learn a cartoon from a folder of episodes or a YouTube playlist. Write a script. Get the episode back with the same look, voices, emotions and mouth movement, up to 1440×960.**
 
-![status](https://img.shields.io/badge/status-BETA-orange) ![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.12%2B-3776ab) ![tests](https://img.shields.io/badge/tests-198%20passed-brightgreen) ![status](https://img.shields.io/badge/status-research%20prototype-orange) ![output](https://img.shields.io/badge/output-1440%C3%97960%20%C2%B7%2016%20fps%20%C2%B7%20up%20to%2063%20s-8a2be2)
+![status](https://img.shields.io/badge/status-BETA-orange) ![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.12%2B-3776ab) ![tests](https://img.shields.io/badge/tests-198%20passed-brightgreen) ![output](https://img.shields.io/badge/output-1440%C3%97960%20%C2%B7%2016%20fps%20%C2%B7%20up%20to%2063%20s-8a2be2)
 
 [What it is](#what-is-hypercartoon) · [Improvements over TTT-Video](#improvements-over-ttt-video) · [Features](#features) · [Studio](#the-studio) · [Engines](#generation-engines) · [1440×960](#the-1440960-format) · [Timings](#timings) · [Quick start](#quick-start) · [Status](#status--what-has-and-has-not-been-run)
 
