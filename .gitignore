@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+studio_ws/
+output/
+wandb/
+*.pt
+*.safetensors
+*.ckpt
+*.npz
+*.wav
+.venv/
